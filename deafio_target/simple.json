@@ -1,0 +1,18 @@
+{
+    "faturamentos_diarios": [
+        {"dia": 1, "faturamento": 1000.0},
+        {"dia": 2, "faturamento": 2000.0},
+        {"dia": 3, "faturamento": 0.0},
+        {"dia": 4, "faturamento": 2500.0},
+        {"dia": 5, "faturamento": 0.0},
+        {"dia": 6, "faturamento": 3000.0},
+        {"dia": 7, "faturamento": 500.0}
+    ],
+    "faturamento_estados": [
+        {"estado": "SP", "faturamento": 67836.43},
+        {"estado": "RJ", "faturamento": 36678.66},
+        {"estado": "MG", "faturamento": 29229.88},
+        {"estado": "ES", "faturamento": 27165.48},
+        {"estado": "OUTROS", "faturamento": 19849.53}
+    ]
+}
